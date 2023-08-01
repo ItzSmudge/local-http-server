@@ -2,7 +2,7 @@
 A file server that can be hosted locally on a network. Currently only in command line. 
 
 Server folder will be created in the following directory (Windows):
-C:\users\<user>\server
+C:\users\\<user>\server
 
 QR code generated for ease of access using mobile devices.
 Server logs displayed during runtime.
